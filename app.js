@@ -3,4 +3,6 @@ var b = 2;
 
 a=7;
 
-b = a
+b = a;
+
+console.log(a)
